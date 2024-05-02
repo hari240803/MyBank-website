@@ -1,0 +1,61 @@
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.slideIn {
+    animation: slideIn 0.5s ease-in-out;
+}
+
+.infoText {
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.infoImage {
+    float: right;
+    margin-right: 33%;
+}
+
+.separator {
+    max-width: 85%;
+    height: 1rem;
+    margin: 0.8rem 7.5%;
+    background-color: lightgray;
+}
+
+.headingStyle {
+    margin: auto auto 0.7rem;
+}
+
+.balanceTable {
+    min-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.transactionTable {
+    overflow-y: auto;
+    height: 10rem;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+}
+
+.transactionTable thead th {
+    position: sticky;
+    top: 0;
+}
+
+.refreshButton {
+    max-width: 200px;
+    margin: 0 auto auto;
+}
+

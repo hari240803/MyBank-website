@@ -1,0 +1,13 @@
+.navigationLink {
+    color: white !important;
+}
+
+.navigationLink:hover {
+    color: lightgrey !important;
+}
+
+.toggleButton {
+    background-color: white !important;
+    border-color: transparent !important;
+    color: white !important;
+}

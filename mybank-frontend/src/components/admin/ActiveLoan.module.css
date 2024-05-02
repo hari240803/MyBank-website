@@ -1,0 +1,19 @@
+.mainHeading {
+    margin-left: 3rem;
+}
+
+.tableStyle {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchButton {
+    display: inline;
+    margin-left: 1rem;
+}
+
+.mainTable {
+    overflow-y: auto;
+    height: 20rem;
+}

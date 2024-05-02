@@ -1,0 +1,103 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+    font-weight: bold;
+}
+
+.container h1 {
+    margin-bottom: 10px;
+    color: #6c2424;
+    font-weight: bold;
+}
+
+.container h2 {
+    display: flex;
+    align-items: center;
+    color: #6c2424;
+    font-weight: bold;
+}
+
+.container h3 {
+    display: flex;
+    align-items: center;
+    color: #6c2424;
+    font-weight: bolder;
+}
+
+.container p {
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.sendButton {
+    margin-top: 2.1rem;
+    background-color: #6c2424;
+    padding: 1% 2.5%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.sendButton:hover {
+    background-color: brown;
+    color: whitesmoke;
+    transition: 0.3s ease-in-out;
+}
+
+.contactForm {
+    padding: 4% 9% 1%;
+    text-align: left;
+}
+
+.phoneLogo {
+    width: 2%;
+    margin-right: 0.5%;
+}
+
+.phoneNum {
+    margin-left: 2%;
+}
+
+.emailLogo {
+    width: 2%;
+    margin-right: 0.5%;
+}
+
+.emailId {
+    margin-left: 2%;
+}
+
+.inputBox {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #080808;
+    padding: 1%;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: left;
+}
+
+.boxText {
+    width: 100%;
+    border: 1px solid #080808;
+    outline: none;
+    box-sizing: border-box;
+    font-weight: bold;
+    padding: 3%;
+    resize: none;
+}
+
+.labelBox {
+    margin-bottom: 1%;
+    display: block;
+    color: #6c2424;
+    font-weight: bold;
+}
+
+.searchButton {
+    display: inline;
+    margin-left: 1rem;
+}

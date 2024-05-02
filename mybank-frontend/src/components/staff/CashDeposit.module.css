@@ -1,0 +1,20 @@
+.heading {
+    margin-left: 3rem;
+    margin-top: 2rem;
+    color: gray;
+}
+
+.formClass {
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+
+.imageClass {
+    width: 80%;
+    margin-left: 17rem;
+    border-radius: 20%;
+}
+
+.container {
+    overflow: hidden;
+}

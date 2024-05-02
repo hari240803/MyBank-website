@@ -1,0 +1,49 @@
+.mainDiv {
+    background-image: url("../../assets/register_bank_image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.mainForm {
+    font-size: 1.3rem;
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 60px 20px 20px 50px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.mainForm .labels {
+    display: block;
+    float: left;
+    width: 38.33%;
+    color: aqua;
+}
+
+.mainForm .labels, .inputs {
+    display: block;
+    margin-bottom: 4.66%;
+}
+
+.mainForm input[type="submit"] {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0053f9;
+    color: rgb(255, 223, 223);
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mainForm input[type="submit"]:hover {
+    background-color: navy;
+}
+
+.mainForm input::placeholder {
+    text-align: center;
+}

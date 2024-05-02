@@ -1,0 +1,45 @@
+.navbarStyle {
+    color: white;
+    background-color: #003366;
+}
+
+.toggleButton {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-color: transparent;
+}
+
+.toggleButton:focus {
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.links {
+    text-transform: capitalize;
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: rgb(128, 128, 128);
+}
+
+.offCanvasStyle {
+    background-color: lightblue;
+}
+
+.offTitle {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.offTitle:hover {
+    color: darkgoldenrod;
+}
+
+.logoutButton {
+    font-size: 1.2rem;
+}
+

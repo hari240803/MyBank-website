@@ -1,0 +1,28 @@
+.footerClass {
+    background-color: rgba(0, 0, 0);
+    color: white;
+}
+
+.footerClass Link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footerLinks {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footerLinks:hover {
+    text-decoration: none;
+    color: #f8b739;
+}
+
+.footerClass Link:hover {
+    text-decoration: none;
+    color: #f8b739;
+}
+
+.footerClass h2, h3 {
+    margin-bottom: 2rem;
+}

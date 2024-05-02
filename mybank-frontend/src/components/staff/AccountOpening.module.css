@@ -1,0 +1,16 @@
+.mainHeading {
+    margin-left: 5rem;
+    margin-top: 12rem;
+}
+
+.tableStyle {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainTable {
+    margin-top: 5rem;
+    overflow-y: auto;
+    height: 25rem;
+}

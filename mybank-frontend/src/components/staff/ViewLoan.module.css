@@ -1,0 +1,23 @@
+.mainHeading {
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+
+.tableStyle {
+    margin-top: 5rem;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.selectClass {
+    width: 40%;
+    margin-top: 3.5rem;
+    margin-left: 3rem;
+    border: 1px solid;
+}
+
+.loanTable {
+    overflow-y: auto;
+    height: 25rem;
+}

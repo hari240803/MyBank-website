@@ -1,0 +1,30 @@
+.mainContent {
+    text-align: center;
+    margin-top: 15rem;
+    color: #333;
+}
+
+.headingOne {
+    font-size: 6rem;
+    margin-bottom: 1rem;
+    color: #f44336;
+}
+
+.headingThree {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.linkStyle {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: #f44336;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+
+.linkStyle:hover {
+    background-color: #d32f2f;
+}

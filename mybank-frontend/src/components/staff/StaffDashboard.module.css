@@ -1,0 +1,53 @@
+.staffDashboard {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.serverStatus {
+    background-color: #F9F07A;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 80px 20px 20px;
+}
+
+.bankHolidays {
+    background-color: #FB88B4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.holidayList {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.holidayList li {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.holidayList li:hover {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.holidayList li:last-child {
+    margin-bottom: 0;
+}
+
+.featureCards {
+    width: 100%;
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
+
+.featureCardHeader {
+    background-color: #9195F6;
+}
+
+.featureCardBody {
+    background-color: #B7C9F2;
+}
